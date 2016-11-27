@@ -1,7 +1,3 @@
-
-코어 데이터+관계 예제(CoreData + Relationship Example)
-
-
 # Swift3-CoreData-Relationship
 
 [![License](https://img.shields.io/cocoapods/l/SJFluidSegmentedControl.svg?style=flat)](https://www.facebook.com/afterint/)
